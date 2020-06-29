@@ -11,7 +11,7 @@
     - <a href="https://www.w3schools.com/html/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
     - List of important tags :
-        - [x] Heading tags
+        - [ ] Heading tags
         - [x] Paragraph tag
         - [x] Anchor tag
         - [x] List tags

@@ -20,9 +20,10 @@
 ## Day 3
 - List of things learnt
     - Flexbox and Grid
-    - Pseudo classes and selectors
+    - Bootstrap
     - Transformations, animations and transitions
 
 - Any useful resource found
     - <a href="https://www.youtube.com/watch?v=zHUpx90NerM&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=50">Transitions and Animations</a>
     - <a href="https://www.youtube.com/watch?v=JJSoEo8JSnca">Flexbox</a>
+    - <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">Bootstrap documentation</a>

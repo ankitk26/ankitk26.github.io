@@ -36,3 +36,13 @@
     - <a href="https://www.w3schools.com/css/">CSS Tutorial</a>
     - <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">Bootstrap documentation</a>
     - <a href="https://www.reliablepsd.com/ultimate-google-font-pairings/">Fonts for Website</a>
+
+## Day 5
+- List of things learnt
+     - DOM
+     - Events and Eventlisteners
+     - ES6
+- Any useful resource found
+    - <a href="https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s">DOM</a>
+    - <a href="https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv">ES6 JavaScript </a>
+    

@@ -7,40 +7,40 @@
 ![](../memes/m8.jpeg)
 
 ## Day 2
-- [ ] Start Learning HTML from 
+- [x] Start Learning HTML from 
     - <a href="https://www.w3schools.com/html/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN web docs</a>
     - List of important tags :
-        - [ ] Heading tags
-        - [ ] Paragraph tag
-        - [ ] Anchor tag
-        - [ ] List tags
-        - [ ] Image tag
-        - [ ] Form tags
-        - [ ] Table tags
-        - [ ] Meta tag, etc.
-- [ ] Make changes in the index.html page of your repository.
-- [ ] Commit and push the changes to your repository.
+        - [x] Heading tags
+        - [x] Paragraph tag
+        - [x] Anchor tag
+        - [x] List tags
+        - [x] Image tag
+        - [x] Form tags
+        - [x] Table tags
+        - [x] Meta tag, etc.
+- [x] Make changes in the index.html page of your repository.
+- [x] Commit and push the changes to your repository.
 
 ![](../memes/m5.jpeg)
 ## Day 3
-- [ ] Get acquainted with CSS
+- [x] Get acquainted with CSS
     Resource Links :
     - <a href="https://www.w3schools.com/css/default.asp">w3schools</a>
     - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">MDN web docs</a>
     - List of important topics to learn in CSS :
-        - [ ] Different type of Stylesheets
-        - [ ] Selectors
-        - [ ] Basic Styling such as font-size, width, etc.
-        - [ ] Color formats
-        - [ ] Box Model
-        - [ ] Display, Positon and Float
-        - [ ] Psuedo Classes and Combinators
-        - [ ] Fluid Layouts
-        - [ ] Media Queries
-        - [ ] Flexbox and Grids
-        - [ ] Transforms, Transitions and Animations 
-- [ ] You can also learn about CSS Frameworks like <a href="https://getbootstrap.com/">Bootstrap</a>
+        - [x] Different type of Stylesheets
+        - [x] Selectors
+        - [x] Basic Styling such as font-size, width, etc.
+        - [x] Color formats
+        - [x] Box Model
+        - [x] Display, Positon and Float
+        - [x] Psuedo Classes and Combinators
+        - [x] Fluid Layouts
+        - [x] Media Queries
+        - [x] Flexbox and Grids
+        - [x] Transforms, Transitions and Animations 
+- [x] You can also learn about CSS Frameworks like <a href="https://getbootstrap.com/">Bootstrap</a>
 
 ![](../memes/m13.jpeg)
 

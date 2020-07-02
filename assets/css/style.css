@@ -1,0 +1,186 @@
+/*Font adjustments*/
+body{
+    color:#ADADAD;
+    font-family:'Open Sans', Sans-Serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans', Sans-Serif;
+}
+
+hr{
+    border: 1px solid #26C485;
+    width: 20%;
+}
+/*Navigation bar*/
+.navbar{
+	background-color: #222725;
+    padding: 0.4%;  
+}
+.navbar-default .navbar-brand {
+    color: #D3D3D3;
+    font-size: 2em;
+    cursor: pointer;
+}
+.navbar-default .navbar-brand:hover {
+
+    color:#F7F7F2;
+    font-size: 2em;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #D3D3D3;
+    font-size: 1.3em;
+    border-bottom: 5px solid #222725;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: #FDFFFC;
+    font-size: 1.3em;
+    border-bottom-color: #26C485;
+    border-radius: 5px;
+}
+
+
+/*Introduction*/
+.intro{
+	margin-top:10%;
+}
+@media all and (max-width: 768px){
+	.intro{margin-top: 17%;}
+}
+.image{
+	text-align: center;
+}
+.image img{
+	border: 3px solid #26C485;
+	border-radius: 50%;
+	padding: 10%;	
+	height: 300px;
+    width: 300px;
+	padding: 1.2%;
+}
+.author-content{
+	text-align: center;
+	border-radius: 20px;
+	display: block;
+	vertical-align: middle;
+}
+.author-content h4{
+    color:#171219;
+	font-size:2.7em;
+}
+.author-content span{
+	font-size:1.7em;
+}
+
+.section{
+	padding: 3% 0;
+	text-align: center;
+}
+
+.about-me, .my-work{
+    color:#1C1D21;
+    background-color: #F5F5F5;
+    font-size: 1.3em;
+}
+.about-me h2, .my-work h2{
+    color:#171219;
+    font-size: 2.3em;
+}
+.about-me h4, .my-work h4{
+    color:#ADADAD;
+    font-size:1.4em;
+    font-weight: bold;
+}
+.my-services , .contact-me{
+    color:#1C1D21;
+    font-size: 1.3em;
+}
+.my-services h2, .contact-me h2{
+    color:#171219;
+    font-size:2.3em;
+}
+.my-services h4, .contact-me h4{
+    color:#ADADAD;
+    font-weight: bold;
+    font-size:1.4em;
+}
+
+/*About me*/
+.left-image-post, .right-image-post{
+    margin:5%;
+}
+.about-me img{
+    height:70%;
+    width: 70%;
+    box-shadow: 4px 8px 8px rgba(47,47,47,0.5);
+}
+
+.about-me a{
+    text-decoration: none;
+    color:#26C485;
+    font-weight: bold;
+}
+.about-me a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/*Work*/
+.my-work label{
+    color:#2364AA;
+    margin: 0.5% 2%;
+    font-size: 0.9em;
+}
+
+/*Contact me*/
+.form-control:focus{
+    border: 2px solid #2364AA;
+    outline: none;
+    box-shadow: none;
+    color:#2A2B2E;
+}
+.button{
+    background-color: #FDFFFC;
+    border:2px solid #26C485;
+    padding: 0.9%;
+    width:15%;
+    border-radius: 30px;
+}
+.button:hover{
+    background-color: #26C485;
+    color:#FDFFFC;
+    transition: 0.2s linear;
+}
+
+footer{
+    background-color: #1C1D21;
+    color:#f2f5ea;
+    font-size:1.2em;
+    padding: 1% 0;
+    text-align: center;
+    left:0;
+    bottom:0;
+    width: 100%;
+}
+footer i{
+    color:#FDFFFC;
+    border:2px solid #FDFFFC;
+    padding: 5px;
+    text-align: center;
+    width: 30px;
+    border-radius: 100%;
+}
+
+footer i:hover{
+    background-color: #FDFFFC;
+    color:#26C485;
+    animation: rotateicon;
+}
+.copyrights, .social-icons{
+    margin-top:1%;
+}
+footer ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-flex;
+}

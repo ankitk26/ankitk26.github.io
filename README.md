@@ -45,33 +45,33 @@
 ![](../memes/m13.jpeg)
 
 ## Day 4
-- [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
-- [ ] You can also use Bootstrap or any other Framework for styling.
-- [ ] Add the CSS file in your index.html using **link** tag
+- [x] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
+- [x] You can also use Bootstrap or any other Framework for styling.
+- [x] Add the CSS file in your index.html using **link** tag
 
 <!-- Add some specific tasks to be performed using html. For example, use of @media, zoom on hover etc. etc -->
-- [ ] Create atleast one animation, transformation and transition using only CSS.
-- [ ] Use Flexbox atleast for one section.
-- [ ] Use Psuedo Classes atleast once.
-- [ ] Use Descendant Selector atleast once.
-- [ ] Make the website responsive.
+- [x] Create atleast one animation, transformation and transition using only CSS.
+- [x] Use Flexbox atleast for one section.
+- [x] Use Psuedo Classes atleast once.
+- [x] Use Descendant Selector atleast once.
+- [x] Make the website responsive.
 
-- [ ] So, that's a lot of learning for 3 days straight. Go watch <a href="https://www.youtube.com/watch?v=D8c4JZW73cM">this</a>, have  a coffee and get back because **CODERS NEVER QUIT, QUITTERS NEVER CODE**
+- [x] So, that's a lot of learning for 3 days straight. Go watch <a href="https://www.youtube.com/watch?v=D8c4JZW73cM">this</a>, have  a coffee and get back because **CODERS NEVER QUIT, QUITTERS NEVER CODE**
 
 ## Day 5(JS)
 
 ![](../memes/m6.jpeg)
-- [ ] Start Learning Javascipt from 
+- [x] Start Learning Javascipt from 
     - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">MDN Web Docs</a>
     - <a href="https://eloquentjavascript.net/">Eloquent Javascript Book for reference</a>
     - List of important topics to learn in Javascipt :
-        - [ ] Types, Variables and Scoping
-        - [ ] Objects and Functions
-        - [ ] The DOM
-        - [ ] Events and EventListeners
-        - [ ] Flow Control
-        - [ ] ES6, etc
-- [ ] You can also learn about any Javascipt Frameworks like JQuery, React, etc
+        - [x] Types, Variables and Scoping
+        - [x] Objects and Functions
+        - [x] The DOM
+        - [x] Events and EventListeners
+        - [x] Flow Control
+        - [x] ES6, etc
+- [x] You can also learn about any Javascipt Frameworks like JQuery, React, etc
     
 ## Day 6 (JS)
 - [ ] Start adding JS to your project. Keep all the JS in **<project_dir>/assets/js/** folder.

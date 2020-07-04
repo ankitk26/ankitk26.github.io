@@ -53,3 +53,9 @@
      - Events
  - Any useful resource found
     - <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=2&t=0s">Javascript Tutorial</a>
+
+## Day 7
+- List of things learnt
+    - Pull Request
+ - Any useful resource found
+    - <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests">Github pull requests documentation</a>

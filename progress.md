@@ -46,3 +46,10 @@
     - <a href="https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s">DOM</a>
     - <a href="https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv">ES6 JavaScript </a>
     
+## Day 6
+- List of things learnt
+     - DOM
+     - Basic jQuery
+     - Events
+ - Any useful resource found
+    - <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=2&t=0s">Javascript Tutorial</a>
